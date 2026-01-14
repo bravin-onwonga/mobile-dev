@@ -33,5 +33,5 @@ npx expo start --tunnel
 npx expo start --create
 ```
 
-- scan the QR code or use the link provide in the `Expo Go` app to test
-- for `Adroid Emulator` press `a` and make sure `abd` is setup
+- scan the QR code or use the link provide in the ```Expo Go``` app to test
+- for ```Android Emulator``` press ```a``` and make sure ```adb``` is setup
